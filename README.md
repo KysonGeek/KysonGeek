@@ -5,7 +5,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
 
 <p>&emsp;&emsp;嗨，我是Kyson。热爱编程、读书、音乐、LOL。</p>
 
